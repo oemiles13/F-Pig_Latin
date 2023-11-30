@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5/Rb8Zlii0VBRIrCUdGlb0lYMwBFlz9faVVutHZBN9n5mb/EN82Xe5T1mV4VaICC0ET5ARJhjFjM3OxLheXinA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Omar Miles\\CSCI350\\f_tutorial\\FirstIonideProject\\FirstIonideProject.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Omar Miles\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
